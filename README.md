@@ -19,8 +19,8 @@
 
 ## 📂 Featured Projects
 - **[Conversation Parser AI](https://github.com/BlochLior/conversation-parser-ai)** – Fullstack containerized app (Go, Python, Docker) integrating AI (LangChain + OpenAI).  
+- **[Weight Tracker](https://github.com/BlochLior/weight-tracker)** – Capstone project: Go-based CLI app with SQLite database, CRUD operations, detailed statistics, and ASCII/HTML chart visualizations.
 - **[React + Django Web App](https://github.com/BlochLior/react-and-django-tutorial)** – Expanded tutorial project (Python, JavaScript) with MySQL backend and Chakra UI; fullstack app demonstrating custom frontend styling and database integration.  
-- **[Snake Game (Python)](https://github.com/BlochLior/snake)** – Small-scale terminal project for practicing real-time input and game loops.  
 
 ---
 
@@ -30,7 +30,8 @@
 - **Pokedex CLI (Go)** – Command-line tool fetching and caching API data.  
 - **Static Site Generator (Python)** – Markdown to HTML automation tool.  
 - **Maze Generator & Solver (Python)** – Implemented DFS-based algorithm.  
-- **Asteroids Game (Python)** – 2D terminal shooter practicing logic and physics.  
+- **Asteroids Game (Python)** – 2D terminal shooter practicing logic and physics.
+- **Snake Game (Python)** – Small-scale terminal project for practicing game loops.  
 
 ---
 
